@@ -1,0 +1,83 @@
+/* body {
+    background: url(/img/spase.gif);
+    background-size: 100%;
+   }
+
+h1 {   
+    font-family: 'Press Start 2P', cursive;
+    position:absolute;
+    width:100%;
+    top:37%;
+    text-align:center;
+    font-size: 50px;
+}
+
+.linki {
+    position:absolute;
+    width:100%;
+    top:44.5%;
+    text-align:center;
+    margin-left: -24px;
+
+}
+
+.cata{
+    position:absolute;
+    width:85%;
+    top:46%;
+    text-align:center;
+}
+
+.sound button{
+    background-color: transparent ;
+    border: none;
+    cursor: pointer;
+} */
+
+body {
+    background: url(/img/spase.gif) no-repeat center fixed;
+    background-size: cover;
+    /* background-size: 100%; */
+    display: flex;
+  justify-content: center;
+  align-content:center;
+  margin-top: 35vh;
+    
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: -10px;
+}
+
+.linki {
+    text-align: center;
+    margin-left: -40px;
+}
+
+.linki img {
+    height: 55px;
+}
+
+/* .sound img {
+    height: 70px;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+}
+
+.sound button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+} */
