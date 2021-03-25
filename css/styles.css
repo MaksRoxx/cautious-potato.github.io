@@ -35,7 +35,7 @@ h1 {
 } */
 
 body {
-    background: url(https://maksroxx.github.io/cautious-potato.github.io/img/spase.gif) no-repeat center fixed;
+    background: url('https://maksroxx.github.io/cautious-potato.github.io/img/spase.gif') no-repeat center fixed;
     background-size: cover;
     /* background-size: 100%; */
     display: flex;
